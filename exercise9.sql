@@ -1,0 +1,11 @@
+select * from employees.titles where to_date is null;
+select * from employees.titles where to_date is not null;
+use employees;
+select count(*) from salaries where salary > 66969 and from_date > '1989-06-25';
+select * from employees where first_name like 'Elv%' and last_name like '_e%' and last_name not like '%n';
+select count(*) from salaries where salary > 66074 and salary < 71046;
+select count(*) from salaries where salary between  66075 and 71045;
+select count(*) from salaries where salary >= 66075 and salary <= 71045;
+select * from employees where birth_date between '1954-04-01' and '1954-04-02';
+select * from employees where birth_date not between '1954-04-01' and '1954-04-02';
+select count(*) from employees where birth_date between '1954-04-01' and '1954-04-02';

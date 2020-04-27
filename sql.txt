@@ -1,0 +1,29 @@
+#http://sqlfiddle.com
+
+create table person(first_name varchar(4),last_name varchar(6));
+insert into person values ('john','thomas');
+_________________________________________________________________
+select concat(first_name,' ',last_name) as full_name from person;
+select * from person
+
+_________________________________________________________________________________________________________________________________
+
+-- DDL
+create table customer(id integer,firast_name varchar(10),
+                     last_name varchar(10),
+                     address varchar(20),
+                     city varchar(10),
+                     state varchar(2),
+                     zip_code varchar(10));
+                     
+create table drink_order(id integer,customer_id integer,
+                         drink_description varchar(100));
+                         
+insert into customer values(1234,'Firas','Bayazed','123 Brickel',
+                           'Miami','FL','33135');
+insert into drink_order values(122249,1234,'scotch');
+_____________________________________________________________________
+select * from customer
+select * from drink_order
+
+install mysql on windows : https://dev.mysql.com/downloads/installer/

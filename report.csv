@@ -1,0 +1,55 @@
+dept_no,emp_no,dept_name,first_name,last_name,title
+d009,111692,"Customer Service",Tonny,Butterworth,Manager
+d009,111692,"Customer Service",Tonny,Butterworth,Staff
+d009,111784,"Customer Service",Marjo,Giarratana,Manager
+d009,111784,"Customer Service",Marjo,Giarratana,"Senior Staff"
+d009,111784,"Customer Service",Marjo,Giarratana,Staff
+d009,111877,"Customer Service",Xiaobin,Spinelli,Manager
+d009,111877,"Customer Service",Xiaobin,Spinelli,"Senior Staff"
+d009,111877,"Customer Service",Xiaobin,Spinelli,Staff
+d009,111939,"Customer Service",Yuchang,Weedman,Manager
+d009,111939,"Customer Service",Yuchang,Weedman,"Senior Staff"
+d005,110567,Development,Leon,DasSarma,Manager
+d005,110567,Development,Leon,DasSarma,"Technique Leader"
+d005,110511,Development,DeForest,Hagimont,Manager
+d005,110511,Development,DeForest,Hagimont,"Technique Leader"
+d002,110085,Finance,Ebru,Alpin,Manager
+d002,110085,Finance,Ebru,Alpin,"Senior Staff"
+d002,110114,Finance,Isamu,Legleitner,Manager
+d002,110114,Finance,Isamu,Legleitner,"Senior Staff"
+d003,110183,"Human Resources",Shirish,Ossenbruggen,Manager
+d003,110183,"Human Resources",Shirish,Ossenbruggen,Staff
+d003,110228,"Human Resources",Karsten,Sigstam,Manager
+d003,110228,"Human Resources",Karsten,Sigstam,"Senior Staff"
+d001,110022,Marketing,Margareta,Markovitch,Manager
+d001,110022,Marketing,Margareta,Markovitch,"Senior Staff"
+d001,110039,Marketing,Vishwani,Minakawa,Manager
+d001,110039,Marketing,Vishwani,Minakawa,"Senior Staff"
+d004,110344,Production,Rosine,Cools,Manager
+d004,110344,Production,Rosine,Cools,"Senior Engineer"
+d004,110344,Production,Rosine,Cools,"Technique Leader"
+d004,110420,Production,Oscar,Ghazalie,Manager
+d004,110420,Production,Oscar,Ghazalie,"Senior Engineer"
+d004,110386,Production,Shem,Kieras,"Technique Leader"
+d004,110386,Production,Shem,Kieras,"Technique Leader"
+d004,110386,Production,Shem,Kieras,Manager
+d004,110303,Production,Krassimir,Wegerle,Manager
+d004,110303,Production,Krassimir,Wegerle,"Technique Leader"
+d006,110765,"Quality Management",Rutger,Hofmeyr,Manager
+d006,110765,"Quality Management",Rutger,Hofmeyr,"Technique Leader"
+d006,110765,"Quality Management",Rutger,Hofmeyr,"Technique Leader"
+d006,110725,"Quality Management",Peternela,Onuegbe,Manager
+d006,110725,"Quality Management",Peternela,Onuegbe,"Technique Leader"
+d006,110854,"Quality Management",Dung,Pesch,Manager
+d006,110854,"Quality Management",Dung,Pesch,"Technique Leader"
+d006,110800,"Quality Management",Sanjoy,Quadeer,Manager
+d006,110800,"Quality Management",Sanjoy,Quadeer,"Senior Engineer"
+d006,110800,"Quality Management",Sanjoy,Quadeer,"Technique Leader"
+d008,111534,Research,Hilary,Kambil,Manager
+d008,111534,Research,Hilary,Kambil,"Senior Staff"
+d008,111400,Research,Arie,Staelin,Manager
+d008,111400,Research,Arie,Staelin,Staff
+d007,111035,Sales,Przemyslawa,Kaelbling,Manager
+d007,111035,Sales,Przemyslawa,Kaelbling,Staff
+d007,111133,Sales,Hauke,Zhang,Manager
+d007,111133,Sales,Hauke,Zhang,Staff
